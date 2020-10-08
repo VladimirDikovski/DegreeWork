@@ -1,0 +1,510 @@
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\DiplomnaRabotaReal.dll.config
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\DiplomnaRabotaReal.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\DiplomnaRabotaReal.pdb
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csc.exe
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csc.exe.config
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csc.rsp
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csi.exe
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csi.exe.config
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csi.rsp
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.AppContext.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Console.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.IO.Compression.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Net.Http.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Net.Sockets.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.ValueTuple.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\vbc.exe
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\vbc.exe.config
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\vbc.rsp
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\VBCSCompiler.exe
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Antlr3.Runtime.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Newtonsoft.Json.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\System.Web.Optimization.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\WebGrease.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\System.Web.Optimization.xml
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Newtonsoft.Json.xml
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Antlr3.Runtime.pdb
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.csprojAssemblyReference.cache
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.csproj.CoreCompileInputs.cache
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.csproj.CopyComplete
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.pdb
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.Compression.Base.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.DocIO.Base.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.Licensing.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.OfficeChart.Base.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.Compression.Base.xml
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.DocIO.Base.xml
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.OfficeChart.Base.xml
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.csproj.ResolveComReference.cache
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Xceed.Document.NET.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Xceed.Words.NET.dll
+C:\Users\music\Desktop\Programs\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\AjaxControlToolkit.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\DiplomnaRabotaReal.dll.config
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\DiplomnaRabotaReal.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\DiplomnaRabotaReal.pdb
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csc.exe
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csc.exe.config
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csc.rsp
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csi.exe
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csi.exe.config
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csi.rsp
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.AppContext.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Console.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.IO.Compression.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Net.Http.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.ValueTuple.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\vbc.exe
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\vbc.exe.config
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\vbc.rsp
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\VBCSCompiler.exe
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\AjaxControlToolkit.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Antlr3.Runtime.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Newtonsoft.Json.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.Compression.Base.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.DocIO.Base.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.Licensing.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.OfficeChart.Base.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\System.Web.Optimization.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\WebGrease.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Xceed.Document.NET.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Xceed.Words.NET.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.Compression.Base.xml
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.DocIO.Base.xml
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.OfficeChart.Base.xml
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\System.Web.Optimization.xml
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Newtonsoft.Json.xml
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Antlr3.Runtime.pdb
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.csprojAssemblyReference.cache
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.csproj.ResolveComReference.cache
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.csproj.CoreCompileInputs.cache
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.csproj.CopyComplete
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.dll
+C:\Users\vlad4\OneDrive\Desktop\Diploma Rabota\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.pdb
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\DiplomnaRabotaReal.dll.config
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\DiplomnaRabotaReal.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\DiplomnaRabotaReal.pdb
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csc.exe
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csc.exe.config
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csc.rsp
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csi.exe
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csi.exe.config
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csi.rsp
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.AppContext.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Console.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.IO.Compression.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Net.Http.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.ValueTuple.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\vbc.exe
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\vbc.exe.config
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\vbc.rsp
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\VBCSCompiler.exe
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\AjaxControlToolkit.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Antlr3.Runtime.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Newtonsoft.Json.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.Compression.Base.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.DocIO.Base.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.Licensing.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.OfficeChart.Base.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\System.Web.Optimization.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\WebGrease.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Xceed.Document.NET.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Xceed.Words.NET.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.Compression.Base.xml
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.DocIO.Base.xml
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.OfficeChart.Base.xml
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\System.Web.Optimization.xml
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Newtonsoft.Json.xml
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Antlr3.Runtime.pdb
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.csprojAssemblyReference.cache
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.csproj.ResolveComReference.cache
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.csproj.CoreCompileInputs.cache
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.csproj.CopyComplete
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.dll
+C:\Users\vlad4\OneDrive\Desktop\Razbrabotka\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.pdb
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\DiplomnaRabotaReal.dll.config
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\DiplomnaRabotaReal.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\DiplomnaRabotaReal.pdb
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csc.exe
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csc.exe.config
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csc.rsp
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csi.exe
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csi.exe.config
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csi.rsp
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.AppContext.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Console.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.IO.Compression.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Net.Http.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.ValueTuple.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\vbc.exe
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\vbc.exe.config
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\vbc.rsp
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\VBCSCompiler.exe
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\AjaxControlToolkit.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Antlr3.Runtime.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Newtonsoft.Json.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.Compression.Base.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.DocIO.Base.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.Licensing.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.OfficeChart.Base.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\System.Web.Optimization.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\WebGrease.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Xceed.Document.NET.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Xceed.Words.NET.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.Compression.Base.xml
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.DocIO.Base.xml
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.OfficeChart.Base.xml
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\System.Web.Optimization.xml
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Newtonsoft.Json.xml
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Antlr3.Runtime.pdb
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.csprojAssemblyReference.cache
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.csproj.ResolveComReference.cache
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.csproj.CoreCompileInputs.cache
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.csproj.CopyComplete
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.pdb
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\DiplomnaRabotaReal.dll.config
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\DiplomnaRabotaReal.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\DiplomnaRabotaReal.pdb
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csc.exe
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csc.exe.config
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csc.rsp
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csi.exe
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csi.exe.config
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csi.rsp
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.AppContext.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Console.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.IO.Compression.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Net.Http.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.ValueTuple.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\vbc.exe
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\vbc.exe.config
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\vbc.rsp
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\VBCSCompiler.exe
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\AjaxControlToolkit.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Antlr3.Runtime.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Newtonsoft.Json.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.Compression.Base.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.DocIO.Base.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.Licensing.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.OfficeChart.Base.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\System.Web.Optimization.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\WebGrease.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Xceed.Document.NET.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Xceed.Words.NET.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.Compression.Base.xml
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.DocIO.Base.xml
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.OfficeChart.Base.xml
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\System.Web.Optimization.xml
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Newtonsoft.Json.xml
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Antlr3.Runtime.pdb
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.csprojAssemblyReference.cache
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.csproj.ResolveComReference.cache
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.csproj.CoreCompileInputs.cache
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.csproj.CopyComplete
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.dll
+C:\Users\vlad4\OneDrive\Desktop\DegreeWorkuPDATE - Copy\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.pdb
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\DiplomnaRabotaReal.dll.config
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\DiplomnaRabotaReal.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\DiplomnaRabotaReal.pdb
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csc.exe
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csc.exe.config
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csc.rsp
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csi.exe
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csi.exe.config
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\csi.rsp
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.AppContext.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Console.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.IO.Compression.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Net.Http.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.ValueTuple.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\vbc.exe
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\vbc.exe.config
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\vbc.rsp
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\VBCSCompiler.exe
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\AjaxControlToolkit.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Antlr3.Runtime.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Newtonsoft.Json.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.Compression.Base.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.DocIO.Base.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.Licensing.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.OfficeChart.Base.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\System.Web.Optimization.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\WebGrease.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Xceed.Document.NET.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Xceed.Words.NET.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.Compression.Base.xml
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.DocIO.Base.xml
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Syncfusion.OfficeChart.Base.xml
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\System.Web.Optimization.xml
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Newtonsoft.Json.xml
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Antlr3.Runtime.pdb
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.csprojAssemblyReference.cache
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.csproj.ResolveComReference.cache
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.csproj.CoreCompileInputs.cache
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.csproj.CopyComplete
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.dll
+C:\Users\vlad4\OneDrive\Desktop\FinalDR\DiplomnaRabotaReal\DiplomnaRabotaReal\obj\Debug\DiplomnaRabotaReal.pdb
