@@ -1,0 +1,16 @@
+This is web project with Databases created with Microsoft SQL Server and C# ASP.NET WebForms.
+
+Thesis: Development of an Application for Students Graduation
+
+One database is for Register users ,another is for Graduation information.
+
+This project have functionality to input data ,search data and edit data and generate shablons.
+
+Database have this entities :
+-Graduates with this fields (faculty numbers ,name ,specialty and more)
+-DegreeWorks with fields (Theme ,Consultant,DateOfSetting, DeliveryTime,DateOfSubmission)
+-DegreWorkFiles with fields(Assignment, AssignmentName, DegreeWork, DegreeWorkName)
+-Rating with fields(RatingOfDevelopment,RatingOfProtection)
+-Manager-Reviewer with fields (Position,ScienceDegree,Name,Department)
+-Protections with fields (DataOfProtection,CommandmentNumber,CommisionChairman, CommisionMember1,
+CommisionMember2, CommisionMember3 , CommisionMember4, Hall ,Time)
